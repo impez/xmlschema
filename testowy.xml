@@ -193,7 +193,7 @@
  <item>
   <prod_name>7_test_produkt</prod_name>
   <prod_id>18505</prod_id>
-  <prod_price>1</prod_price>
+  <prod_price>12</prod_price>
   <prod_boxamount></prod_boxamount>
   <prod_tax_id>5.79</prod_tax_id>
   <taxpercent>23</taxpercent>
@@ -229,9 +229,9 @@
   </prod_img>
  </item>
   <item>
-  <prod_name>1_test_produkt_cron</prod_name>
+  <prod_name>10_test_produkt_cron</prod_name>
   <prod_id>18505</prod_id>
-  <prod_price>2137</prod_price>
+  <prod_price>12</prod_price>
   <prod_boxamount></prod_boxamount>
   <prod_tax_id>5.79</prod_tax_id>
   <taxpercent>23</taxpercent>
@@ -244,9 +244,9 @@
   <prd_name>ECO LABORATORIE</prd_name>
   <prod_override_by_stock></prod_override_by_stock>
   <prod_pkwiu></prod_pkwiu>
-  <prod_ean>1</prod_ean>
+  <prod_ean>10</prod_ean>
   <prod_isbn></prod_isbn>
-  <prod_barcode>1</prod_barcode>
+  <prod_barcode>10</prod_barcode>
   <prod_gtu></prod_gtu>
   <prod_ship_days></prod_ship_days>
   <prod_desc></prod_desc>
