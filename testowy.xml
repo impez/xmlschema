@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" date="2021-03-09 14:17:38">
  <item>
-  <prod_name>1_test_produkt_zmiana</prod_name>
+  <prod_name>1_test_produkt</prod_name>
   <prod_id>18505</prod_id>
   <prod_price>500</prod_price>
   <prod_boxamount></prod_boxamount>
