@@ -1,128 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" date="2021-03-10 11:35:38">
  <item>
-  <prod_name>0TEST_cron-zmiana</prod_name>
-  <prod_id>18505</prod_id>
-  <prod_price>222</prod_price>
-  <prod_boxamount></prod_boxamount>
-  <prod_tax_id>5.79</prod_tax_id>
-  <taxpercent>23</taxpercent>
-  <prod_oldprice/>
-  <prod_amount>0.0000</prod_amount>
-  <prod_unit>szt.</prod_unit>
-  <prod_hidden>0</prod_hidden>
-  <prod_symbol>EC124</prod_symbol>
-  <prod_weight>220</prod_weight>
-  <prd_name>ECO LABORATORIE</prd_name>
-  <prod_override_by_stock></prod_override_by_stock>
-  <prod_pkwiu></prod_pkwiu>
-  <prod_ean>90</prod_ean>
-  <prod_isbn></prod_isbn>
-  <prod_barcode>90</prod_barcode>
-  <prod_gtu></prod_gtu>
-  <prod_ship_days></prod_ship_days>
-  <prod_desc></prod_desc>
-  <prod_shortdesc></prod_shortdesc>
-  <prod_info1></prod_info1>
-  <prod_info2></prod_info2>
-  <prod_info3></prod_info3>
-  <prod_info4></prod_info4>
-  <prod_info5></prod_info5>
-  <prod_note></prod_note>
-  <prod_link>https://b2becotrade.eu/Kula-musujaca-do-kapieli-naturalna-PERLOWA-soda-oczyszczona-organiczny-olej-z-pestek-winogron-olej-z-irysa-220g-p18505</prod_link>
-  <prod_price_base>7.49</prod_price_base>
-  <prod_price_net_base>6.09</prod_price_net_base>
-  <prod_price_net>5.79</prod_price_net>
-  <cat_path>Do kąpieli/Kule do kąpieli</cat_path>
-  <prod_img>
-   <img>https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png</img>
-  </prod_img>
- </item>
- <item>
-  <prod_name>1TEST_cron-zmiana</prod_name>
-  <prod_id>18505</prod_id>
-  <prod_price>22</prod_price>
-  <prod_boxamount></prod_boxamount>
-  <prod_tax_id>5.79</prod_tax_id>
-  <taxpercent>23</taxpercent>
-  <prod_oldprice/>
-  <prod_amount>0.0000</prod_amount>
-  <prod_unit>szt.</prod_unit>
-  <prod_hidden>0</prod_hidden>
-  <prod_symbol>EC124</prod_symbol>
-  <prod_weight>220</prod_weight>
-  <prd_name>ECO LABORATORIE</prd_name>
-  <prod_override_by_stock></prod_override_by_stock>
-  <prod_pkwiu></prod_pkwiu>
-  <prod_ean>91</prod_ean>
-  <prod_isbn></prod_isbn>
-  <prod_barcode>91</prod_barcode>
-  <prod_gtu></prod_gtu>
-  <prod_ship_days></prod_ship_days>
-  <prod_desc></prod_desc>
-  <prod_shortdesc></prod_shortdesc>
-  <prod_info1></prod_info1>
-  <prod_info2></prod_info2>
-  <prod_info3></prod_info3>
-  <prod_info4></prod_info4>
-  <prod_info5></prod_info5>
-  <prod_note></prod_note>
-  <prod_link>https://b2becotrade.eu/Kula-musujaca-do-kapieli-naturalna-PERLOWA-soda-oczyszczona-organiczny-olej-z-pestek-winogron-olej-z-irysa-220g-p18505</prod_link>
-  <prod_price_base>7.49</prod_price_base>
-  <prod_price_net_base>6.09</prod_price_net_base>
-  <prod_price_net>5.79</prod_price_net>
-  <cat_path>Do kąpieli/Kule do kąpieli</cat_path>
-  <prod_img>
-   <img>https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png</img>
-  </prod_img>
- </item>
- <item>
-  <prod_name>2TEST_cron</prod_name>
-  <prod_id>18505</prod_id>
-  <prod_price>2</prod_price>
-  <prod_boxamount></prod_boxamount>
-  <prod_tax_id>5.79</prod_tax_id>
-  <taxpercent>23</taxpercent>
-  <prod_oldprice/>
-  <prod_amount>0.0000</prod_amount>
-  <prod_unit>szt.</prod_unit>
-  <prod_hidden>0</prod_hidden>
-  <prod_symbol>EC124</prod_symbol>
-  <prod_weight>220</prod_weight>
-  <prd_name>ECO LABORATORIE</prd_name>
-  <prod_override_by_stock></prod_override_by_stock>
-  <prod_pkwiu></prod_pkwiu>
-  <prod_ean>92</prod_ean>
-  <prod_isbn></prod_isbn>
-  <prod_barcode>92</prod_barcode>
-  <prod_gtu></prod_gtu>
-  <prod_ship_days></prod_ship_days>
-  <prod_desc></prod_desc>
-  <prod_shortdesc></prod_shortdesc>
-  <prod_info1></prod_info1>
-  <prod_info2></prod_info2>
-  <prod_info3></prod_info3>
-  <prod_info4></prod_info4>
-  <prod_info5></prod_info5>
-  <prod_note></prod_note>
-  <prod_link>https://b2becotrade.eu/Kula-musujaca-do-kapieli-naturalna-PERLOWA-soda-oczyszczona-organiczny-olej-z-pestek-winogron-olej-z-irysa-220g-p18505</prod_link>
-  <prod_price_base>7.49</prod_price_base>
-  <prod_price_net_base>6.09</prod_price_net_base>
-  <prod_price_net>5.79</prod_price_net>
-  <cat_path>Do kąpieli/Kule do kąpieli</cat_path>
-  <prod_img>
-   <img>https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png</img>
-  </prod_img>
- </item>
- <item>
-  <prod_name>3NOWY_TEST_cron_zadzialal</prod_name>
+  <prod_name>Produkt 1</prod_name>
   <prod_id>18505</prod_id>
   <prod_price>15</prod_price>
   <prod_boxamount></prod_boxamount>
   <prod_tax_id>5.79</prod_tax_id>
   <taxpercent>23</taxpercent>
   <prod_oldprice/>
-  <prod_amount>0.0000</prod_amount>
+  <prod_amount>6.000</prod_amount>
   <prod_unit>szt.</prod_unit>
   <prod_hidden>0</prod_hidden>
   <prod_symbol>EC124</prod_symbol>
@@ -130,9 +16,9 @@
   <prd_name>ECO LABORATORIE</prd_name>
   <prod_override_by_stock></prod_override_by_stock>
   <prod_pkwiu></prod_pkwiu>
-  <prod_ean>92</prod_ean>
+  <prod_ean>1110</prod_ean>
   <prod_isbn></prod_isbn>
-  <prod_barcode>92</prod_barcode>
+  <prod_barcode>1110</prod_barcode>
   <prod_gtu></prod_gtu>
   <prod_ship_days></prod_ship_days>
   <prod_desc></prod_desc>
@@ -152,15 +38,16 @@
    <img>https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png</img>
   </prod_img>
  </item>
+ 
  <item>
-  <prod_name>witam serdecznie</prod_name>
+  <prod_name>Produkt 2</prod_name>
   <prod_id>18505</prod_id>
-  <prod_price>2137</prod_price>
+  <prod_price>25</prod_price>
   <prod_boxamount></prod_boxamount>
   <prod_tax_id>5.79</prod_tax_id>
   <taxpercent>23</taxpercent>
   <prod_oldprice/>
-  <prod_amount>0.0000</prod_amount>
+  <prod_amount>7.000</prod_amount>
   <prod_unit>szt.</prod_unit>
   <prod_hidden>0</prod_hidden>
   <prod_symbol>EC124</prod_symbol>
@@ -168,9 +55,87 @@
   <prd_name>ECO LABORATORIE</prd_name>
   <prod_override_by_stock></prod_override_by_stock>
   <prod_pkwiu></prod_pkwiu>
-  <prod_ean>99</prod_ean>
+  <prod_ean>1111</prod_ean>
   <prod_isbn></prod_isbn>
-  <prod_barcode>99</prod_barcode>
+  <prod_barcode>1111</prod_barcode>
+  <prod_gtu></prod_gtu>
+  <prod_ship_days></prod_ship_days>
+  <prod_desc></prod_desc>
+  <prod_shortdesc></prod_shortdesc>
+  <prod_info1></prod_info1>
+  <prod_info2></prod_info2>
+  <prod_info3></prod_info3>
+  <prod_info4></prod_info4>
+  <prod_info5></prod_info5>
+  <prod_note></prod_note>
+  <prod_link>https://b2becotrade.eu/Kula-musujaca-do-kapieli-naturalna-PERLOWA-soda-oczyszczona-organiczny-olej-z-pestek-winogron-olej-z-irysa-220g-p18505</prod_link>
+  <prod_price_base>7.49</prod_price_base>
+  <prod_price_net_base>6.09</prod_price_net_base>
+  <prod_price_net>5.79</prod_price_net>
+  <cat_path>Do kąpieli/Kule do kąpieli</cat_path>
+  <prod_img>
+   <img>https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png</img>
+  </prod_img>
+ </item>
+ 
+ <item>
+  <prod_name>Produkt 3</prod_name>
+  <prod_id>18505</prod_id>
+  <prod_price>35</prod_price>
+  <prod_boxamount></prod_boxamount>
+  <prod_tax_id>5.79</prod_tax_id>
+  <taxpercent>23</taxpercent>
+  <prod_oldprice/>
+  <prod_amount>9.000</prod_amount>
+  <prod_unit>szt.</prod_unit>
+  <prod_hidden>0</prod_hidden>
+  <prod_symbol>EC124</prod_symbol>
+  <prod_weight>220</prod_weight>
+  <prd_name>ECO LABORATORIE</prd_name>
+  <prod_override_by_stock></prod_override_by_stock>
+  <prod_pkwiu></prod_pkwiu>
+  <prod_ean>1112</prod_ean>
+  <prod_isbn></prod_isbn>
+  <prod_barcode>1112</prod_barcode>
+  <prod_gtu></prod_gtu>
+  <prod_ship_days></prod_ship_days>
+  <prod_desc></prod_desc>
+  <prod_shortdesc></prod_shortdesc>
+  <prod_info1></prod_info1>
+  <prod_info2></prod_info2>
+  <prod_info3></prod_info3>
+  <prod_info4></prod_info4>
+  <prod_info5></prod_info5>
+  <prod_note></prod_note>
+  <prod_link>https://b2becotrade.eu/Kula-musujaca-do-kapieli-naturalna-PERLOWA-soda-oczyszczona-organiczny-olej-z-pestek-winogron-olej-z-irysa-220g-p18505</prod_link>
+  <prod_price_base>7.49</prod_price_base>
+  <prod_price_net_base>6.09</prod_price_net_base>
+  <prod_price_net>5.79</prod_price_net>
+  <cat_path>Do kąpieli/Kule do kąpieli</cat_path>
+  <prod_img>
+   <img>https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png</img>
+  </prod_img>
+ </item>
+ 
+ <item>
+  <prod_name>Produkt 4</prod_name>
+  <prod_id>18505</prod_id>
+  <prod_price>5</prod_price>
+  <prod_boxamount></prod_boxamount>
+  <prod_tax_id>5.79</prod_tax_id>
+  <taxpercent>23</taxpercent>
+  <prod_oldprice/>
+  <prod_amount>6.000</prod_amount>
+  <prod_unit>szt.</prod_unit>
+  <prod_hidden>0</prod_hidden>
+  <prod_symbol>EC124</prod_symbol>
+  <prod_weight>220</prod_weight>
+  <prd_name>ECO LABORATORIE</prd_name>
+  <prod_override_by_stock></prod_override_by_stock>
+  <prod_pkwiu></prod_pkwiu>
+  <prod_ean>1113</prod_ean>
+  <prod_isbn></prod_isbn>
+  <prod_barcode>1113</prod_barcode>
   <prod_gtu></prod_gtu>
   <prod_ship_days></prod_ship_days>
   <prod_desc></prod_desc>
