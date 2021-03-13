@@ -14,7 +14,7 @@
   <prod_hidden>0</prod_hidden>
   <prod_symbol>EC124</prod_symbol>
   <prod_weight>220</prod_weight>
-  <prd_name>ECO LABORATORIE</prd_name>
+  <prd_name>Test producent 1</prd_name>
   <prod_override_by_stock></prod_override_by_stock>
   <prod_pkwiu></prod_pkwiu>
   <prod_ean>1112</prod_ean>
@@ -53,7 +53,7 @@
   <prod_hidden>0</prod_hidden>
   <prod_symbol>EC124</prod_symbol>
   <prod_weight>220</prod_weight>
-  <prd_name>ECO LABORATORIE</prd_name>
+  <prd_name>Test producent 2</prd_name>
   <prod_override_by_stock></prod_override_by_stock>
   <prod_pkwiu></prod_pkwiu>
   <prod_ean>1119</prod_ean>
@@ -131,7 +131,7 @@
   <prod_hidden>0</prod_hidden>
   <prod_symbol>EC124</prod_symbol>
   <prod_weight>220</prod_weight>
-  <prd_name>ECO LABORATORIE</prd_name>
+  <prd_name>Test producent 3</prd_name>
   <prod_override_by_stock></prod_override_by_stock>
   <prod_pkwiu></prod_pkwiu>
   <prod_ean>1120</prod_ean>
